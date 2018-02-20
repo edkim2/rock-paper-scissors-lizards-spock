@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication6
+{
+    class Game
+    {
+        // member variables
+        // constructor
+        public Game()
+        {
+
+        }
+        // member methods
+    }
+}
