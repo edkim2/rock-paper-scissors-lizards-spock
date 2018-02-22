@@ -10,6 +10,17 @@ namespace ConsoleApplication6
     {
         static void Main(string[] args)
         {
+            Game game = new Game();
+            game.RunGame();
+           // Player player = new Player();
+            //AI ai = new AI();
+            //player.ChooseChoice();
+            //ai.ChooseChoice();
+            //ai.DisplayChoice();
+            //Console.ReadLine();
+            Console.ReadLine();
+            
+            
         }
     }
 }

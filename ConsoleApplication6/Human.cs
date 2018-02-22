@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication6
 {
-    class Human
+    class Human : Player
     {
         // member variables
+
         // constructor
         public Human()
         {
 
         }
         // member methods
+
     }
 }
